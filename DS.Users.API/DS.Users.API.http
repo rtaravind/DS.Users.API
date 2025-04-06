@@ -1,0 +1,6 @@
+@DS.Users.API_HostAddress = http://localhost:5169
+
+GET {{DS.Users.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
